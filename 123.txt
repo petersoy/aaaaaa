@@ -1,0 +1,4 @@
+https://www.safebreach.com/blog/process-injection-using-windows-thread-pools/
+https://labs.nettitude.com/blog/creating-an-opsec-safe-loader-for-red-team-operations/
+https://secarma.com/process-injection-part-1-the-theory/
+https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
